@@ -44,14 +44,14 @@ b {
 
 section.texto {
     font-family: 'Sriracha', cursive;
-    font-size: 3.5vh;
+    font-size: 3em;
     padding: 25px 40px;
 }
 
 section.foto {
     background-color: rgb(128, 128, 128);
     font-family: 'Sriracha', cursive;
-    font-size: 3.5em;
+    font-size: 3em;
     padding: 25px 40px;
     margin: 0px -8px;
 }
