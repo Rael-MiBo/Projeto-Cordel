@@ -17,7 +17,7 @@ header {
 
 h1 {
     font: normal 700 131px 'Passion One', cursive;
-    text-transform: small-caps;
+    font-variant: small-caps;
     margin: 100px 0px 0px 0px;
 }
 
